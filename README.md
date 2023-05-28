@@ -1,7 +1,7 @@
 Found in translation:
 ```
 ( Livet er bokstavelig talt og praktisk talt, fantastisk! )
- ------------------------------------------- 
+ --------------------------------------------------------- 
                        o                
                         o               
                          o              
@@ -32,5 +32,5 @@ Found in translation:
 
 
 > ... slik jeg ser det, et spill. 
-og derfor ... slik jeg ser det, er et liv.
+og derfor ... slik jeg ser det, et liv.
 
