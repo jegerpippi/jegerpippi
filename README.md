@@ -1,5 +1,6 @@
+Found in translation:
 ```
-( Life is literally and virtually, awesome! )
+( Livet er bokstavelig talt og praktisk talt, fantastisk! )
  ------------------------------------------- 
                        o                
                         o               
@@ -28,6 +29,8 @@
           ███████▀▀▀    ▀▄████▄█▀       
           ▀▀▀▀▀▀▀        ▀▀▀▀▀▀▀        
 ```
+
+
 > ... slik jeg ser det, er et spill. 
 og derfor ... slik jeg ser det, er et liv.
 
