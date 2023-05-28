@@ -29,5 +29,5 @@
           ▀▀▀▀▀▀▀        ▀▀▀▀▀▀▀        
 ```
 > ... slik jeg ser det, er et spill. 
-> ... slik jeg ser det, er et liv. 
-#Pippi
+og derfoor ... slik jeg ser det, er et liv.
+
