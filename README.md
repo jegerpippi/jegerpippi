@@ -28,7 +28,6 @@
           ███████▀▀▀    ▀▄████▄█▀       
           ▀▀▀▀▀▀▀        ▀▀▀▀▀▀▀        
 ```
-> This issue was automatically created by the GitHub Action workflow **Destroys tissues for fun**.
-> 
-> The commit hash was: _[7b1bf92](https://github.com/anderspippi/anderspippi/commit/7b1bf92709c76e5193949f006774d67651cb9de2)_.
-
+> ... slik jeg ser det, er et spill. 
+> ... slik jeg ser det, er et liv. 
+#Pippi
