@@ -31,6 +31,6 @@ Found in translation:
 ```
 
 
-> ... slik jeg ser det, er et spill. 
+> ... slik jeg ser det, et spill. 
 og derfor ... slik jeg ser det, er et liv.
 
