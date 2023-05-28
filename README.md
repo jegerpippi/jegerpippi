@@ -29,5 +29,5 @@
           ▀▀▀▀▀▀▀        ▀▀▀▀▀▀▀        
 ```
 > ... slik jeg ser det, er et spill. 
-og derfoor ... slik jeg ser det, er et liv.
+og derfor ... slik jeg ser det, er et liv.
 
